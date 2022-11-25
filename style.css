@@ -1,0 +1,110 @@
+/* Heading */
+#cabecera {
+    height: 144px;
+    background-color: #0a50b8;
+    }
+    #cabecera > div {
+    margin: 0px auto;
+    padding-top: 35px;
+    }
+    h1 {
+    font: bold 44px Black, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    text-size-adjust: center;
+    text-align-last: center;
+    height: 60px;
+    }
+    
+    /* Menu bar */
+    #menuprincipal {
+    background-color: #548ee6;
+    }
+    #menuprincipal > div {
+    margin: 0px auto;
+    padding-top: 13px;
+    padding-bottom: 3px;
+    text-align: center;
+    }
+    #menuprincipal li {
+        display: inline-block;
+        height: 30px;
+        margin-right: 15px;
+        }
+        #menuprincipal li:hover {
+        background-color: #6FACC6;
+        }
+        #menuprincipal a {
+        font: bold 24px Arial, sans-serif;
+        color: #333333;
+        text-decoration: none;
+        }
+
+        #articulosprincipales {
+        position:relative;
+        top: 45px;
+        height: 488px;
+        background-color: rgb(7, 7, 7);
+        }
+
+        #head {
+        position:relative;
+        top:20px;
+        background-color: #2d54d3;
+        }
+      
+        #titulo {
+            font: bold 34px Black, sans-serif;
+            color: #150403;
+            text-align: center;
+            }
+        #webcam{
+            font: bold 150px Black, sans-serif;
+            text-align: center;
+            border-width:medium;
+            border-color:#333333;
+            border-style:solid;
+            }
+        #label-container{
+            font: bold 45px Black, sans-serif;
+            color: #030a2e;
+            text-align: center;
+        }
+        #me{
+            position:relative;
+            top:80px;
+            left:-90px;
+        }
+        #partner{
+            position:relative;
+            top:80px;
+            left:90px;
+        }
+        #nombres{
+            position:relative;
+            top:105px;
+            left:387px;
+        }
+        #ret{
+        position:relative;
+        top:-210px;
+        left:5px;
+        }
+        #ret2{
+        position:relative;
+        top:14px;
+        left:5px;
+        }
+        h2{
+        text-align: center;
+        }
+        strong{
+        text-align: center, sans-serif; 
+        font:bold 54px;
+        color:white;
+        }
+        .center {
+        text-align: center;
+        }
+        
+
